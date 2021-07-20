@@ -66,6 +66,9 @@
         border: none;
         border-bottom: 1px solid var(--azul);
     }
+    .cabecalho__nav--link.cabecalho__nav--link--app {
+        order: -1;
+    }
 
     .img-logo {
         display: none;
